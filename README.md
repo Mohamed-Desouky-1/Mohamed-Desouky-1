@@ -13,9 +13,6 @@
 * 🔧 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" /> 
 
 
-### ✨ Visitors
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Mohamed-Desouky-1.Mohamed-Desouky-1)
-
 ### 📊 Profile stats
 [![Mohamed Desouky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Desouky-1&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
