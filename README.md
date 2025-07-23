@@ -20,5 +20,5 @@
 
 
 <p align="center">
-  <img src="https://sl.bing.net/iiOptmoBK8G" alt="Custom Image" width="100%" />
+  <img src="https://www.sourcesecurity.com/img/white-papers/1240/cloud-access-secure1240.jpg" alt="Cloud Access Security" width="100%" />
 </p>
