@@ -1,5 +1,6 @@
 # Hey there! I'm Mohamed.
 ### 
+### 🧑‍💻 About Me
 *I'm a mechatronics student who is passionate about Embedded Software.*
 * **Currently enrolled in:** Faculty of Engineering (mechatronics department) - Benha University.
 * **Current Grade:** Very Good (B+) (Rank : 4th).
