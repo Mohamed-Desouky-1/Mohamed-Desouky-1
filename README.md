@@ -3,7 +3,7 @@
 *I'm a mechatronics student who is passionate about Embedded Software.*
 * **Currently enrolled in:** Faculty of Engineering (mechatronics department) - Benha University.
 * **Current Grade:** Very Good (B+) (Rank : 4th).
-* **Learning more about Microcontrollers, Embedded Software.
+* Learning more about Microcontrollers, Embedded Software.
 * **How to reach me:** [LinkedIn](https://www.linkedin.com/in/mohamed-desouky-972b6432a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCpaAf91%2BSDmdYlce82sdjQ%3D%3D) [Gmail](mailto:mohameddesouky@gmail.com)
 
 
