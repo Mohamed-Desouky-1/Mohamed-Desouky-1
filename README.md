@@ -15,9 +15,9 @@
 
 ### ✨ Visitors
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Mohamed-Desouky-1.Mohamed-Desouky-1)
+### 📊 Profile stats
+[![Mohamed Desouky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Desouky-1&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Profile stats
-[![Mahmoud Karem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="right">
   <img src="https://example.com/your-animated-character.gif" alt="Animated Character" width="200" />
