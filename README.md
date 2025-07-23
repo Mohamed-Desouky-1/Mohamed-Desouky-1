@@ -20,5 +20,5 @@
 
 
 <p align="center">
-  <img src="https://www.sourcesecurity.com/img/white-papers/1240/cloud-access-secure1240.jpg" alt="Cloud Access Security" width="100%" />
+  <img src="https://thumbs.dreamstime.com/b/concept-coding-circuit-industrial-business-background-banner-vector-illustration-many-uses-advertising-book-page-193625558.jpg" alt="Concept Coding Circuit" width="100%" />
 </p>
