@@ -1,4 +1,4 @@
-# Hey there! I'm Mohamed.
+# Hey there! I'm Mohamed Desouky.
 ### 
 ### 🧑‍💻 About Me
 *I'm a mechatronics student who is passionate about Embedded Software.*
