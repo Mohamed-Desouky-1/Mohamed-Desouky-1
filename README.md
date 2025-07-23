@@ -19,6 +19,6 @@
 [![Mohamed Desouky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Desouky-1&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p align="right">
-  <img src="https://example.com/your-animated-character.gif" alt="Animated Character" width="200" />
+<p align="center">
+  <img src="http://googleusercontent.com/image_generation_content/0" alt="Mechatronics Concept" width="100%" />
 </p>
