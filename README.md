@@ -20,5 +20,5 @@
 
 
 <p align="center">
-  <img src="http://googleusercontent.com/image_generation_content/0" alt="Mechatronics Concept" width="100%" />
+  <img src="https://sl.bing.net/iiOptmoBK8G" alt="Custom Image" width="100%" />
 </p>
